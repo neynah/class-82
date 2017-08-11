@@ -1,1 +1,1 @@
-<html><head></head><body><marquee><h1>This website is amaze.</h1></marquee></body>
+<html><head></head><body><h1>This website is amaze.</h1></body>
